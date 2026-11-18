@@ -1,0 +1,11 @@
+In Obtainium tap "Add App", paste one link, tap "Add". It finds the app you already have and tracks updates.
+(For Lawnchair and Termux:X11 also switch on "Include prereleases".)
+
+https://github.com/termux/termux-app
+https://github.com/termux/termux-widget
+https://github.com/termux/termux-x11
+https://github.com/LawnchairLauncher/lawnchair
+https://github.com/LawnchairLauncher/lawnicons
+https://github.com/FossifyOrg/Messages
+https://github.com/zhanghai/MaterialFiles
+https://github.com/ImranR98/Obtainium

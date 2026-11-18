@@ -1,0 +1,26 @@
+com.facebook.appmanager            # Facebook App Manager (silent installer)
+com.facebook.services              # Facebook Services
+com.facebook.system                # Facebook App Installer
+com.amazon.appmanager              # Amazon App Manager (silent installer)
+com.microsoft.appmanager           # Microsoft Link to Windows manager
+com.microsoftsdk.crossdeviceservicebroker # Microsoft cross-device broker
+com.aura.oobe.honor                # Aura preload installer (pushes apps)
+com.hihonor.autoinstallapkfrommcc  # Carrier auto-install of apps
+android.autoinstalls.config.honor.device # Auto-install config
+com.hihonor.popularapps            # "Recommendations" notifications
+com.hihonor.magazine               # Lock-screen Magazine (ads)
+com.hihonor.tips                   # Tips
+com.hihonor.appmarket              # Honor App Market
+com.hihonor.gamecenter             # Game Center
+com.hihonor.gameassistant          # Game Assistant
+com.hihonor.game.kitserver         # Game kit service
+com.hihonor.search                 # Honor Search (175 MB RAM)
+com.hihonor.searchservice          # Honor Search service
+com.honor.browser                  # Honor Browser
+com.hihonor.browserhomepage        # Browser homepage feed
+com.hihonor.assistant              # YOYO Assistant
+com.hihonor.health                 # Honor Health
+com.hihonor.fitness.healthservice  # Health background service
+com.hihonor.phoneservice           # My Honor
+com.hihonor.hnpanpayservice        # Honor Pay
+com.hihonor.android.totemweather   # Honor Weather

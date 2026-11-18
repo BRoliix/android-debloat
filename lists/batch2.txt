@@ -1,0 +1,24 @@
+com.hihonor.email                  # Honor Email
+com.hihonor.notepad                # Notes
+com.hihonor.hnmusicplayer          # Music
+com.hihonor.hnvideoplayer          # Video player
+com.hihonor.videoeditor            # Video editor
+com.hihonor.soundrecorder          # Sound recorder
+com.hihonor.screenrecorder         # Screen recorder
+com.hihonor.android.fmradio        # FM radio
+com.hihonor.magictranslate         # Translate
+com.hihonor.lens                   # Honor Lens
+com.hihonor.magicvoice             # Voice assistant
+com.hihonor.hncloud                # Honor Cloud
+com.hihonor.remotepassword         # Find Device (remote lock)  (anti-theft: remove this line to keep it)
+com.hihonor.trustcircle            # Find Device / trust circle  (anti-theft: remove this line to keep it)
+com.hihonor.android.instantshare   # Honor Share
+com.hihonor.nearby                 # Nearby devices
+com.hihonor.android.mirrorshare    # Screen casting
+com.hihonor.android.wfdft          # Wireless display
+com.hihonor.linktowindowsservice   # Link to Windows
+com.hihonor.android.clone          # Phone Clone
+com.hihonor.koBackup               # Honor Backup
+com.hihonor.android.FloatTasks     # Floating dock
+com.hihonor.hndockbar              # Side dock bar
+com.hihonor.calendar               # Honor Calendar

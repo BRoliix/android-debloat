@@ -1,0 +1,15 @@
+# Downloaded app installers (re-downloaded by the scripts)
+apks/
+*.apk
+
+# Raw dumps from the phone (RAM, installed apps) - device-specific, kept local
+snapshots/
+
+# Local helpers / OS junk
+cc.sh
+.DS_Store
+
+# Personal, generated per phone by scripts/run-batch.sh
+UNDO.md
+undo-all.sh
+lists/batch4.txt

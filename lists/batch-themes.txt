@@ -1,0 +1,1 @@
+com.hihonor.android.thememanager   # Honor Themes (167 MB RAM)

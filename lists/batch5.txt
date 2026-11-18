@@ -1,0 +1,5 @@
+com.google.android.apps.messaging  # Google Messages (Fossify takes over)
+com.android.vending                # Google Play Store
+com.google.android.gms             # Google Play Services
+com.google.android.gsf             # Google Services Framework
+com.google.android.partnersetup    # Google Partner Setup

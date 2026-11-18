@@ -1,0 +1,1 @@
+com.preff.kb.hr   # Honor keyboard (ad/push service)

@@ -1,0 +1,6 @@
+# Your OWN installed apps you want switched off (app + data are kept, fully reversible).
+# Copy this file to lists/batch4.txt and put one package name per line.
+# Find package names with:  adb shell pm list packages -3
+# Example:
+# com.facebook.katana                # Facebook
+# com.microsoft.office.outlook       # Outlook
