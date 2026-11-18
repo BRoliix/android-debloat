@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="800" height="250" rx="16" fill="#1a1b26"/>
+  <text x="40" y="50" font-size="22" font-weight="700" fill="#c0caf5">Idle RAM in use</text>
+  <text x="40" y="76" font-size="15" fill="#565f89">HONOR X6c with 6 GB RAM · idle, measured with dumpsys meminfo</text>
+  <!-- scale: 6 GB = 560px, start x=130 -->
+  <g font-size="16">
+    <text x="40" y="128" fill="#a9b1d6">Before</text>
+    <rect x="130" y="106" width="560" height="34" rx="8" fill="#24283b"/>
+    <rect x="130" y="106" width="292" height="34" rx="8" fill="#f7768e"/>
+    <text x="436" y="129" font-weight="700" fill="#f7768e">3.12 GB</text>
+    <text x="40" y="190" fill="#a9b1d6">After</text>
+    <rect x="130" y="168" width="560" height="34" rx="8" fill="#24283b"/>
+    <rect x="130" y="168" width="245" height="34" rx="8" fill="#9ece6a"/>
+    <text x="389" y="191" font-weight="700" fill="#9ece6a">2.63 GB</text>
+  </g>
+  <g transform="translate(560 214)">
+    <rect width="200" height="30" rx="15" fill="#24283b"/>
+    <text x="100" y="20" text-anchor="middle" font-size="14" font-weight="700" fill="#e0af68">≈ 490 MB freed (−16%)</text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="1000" height="300" rx="16" fill="#1a1b26"/>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#565f89"/></marker></defs>
+  <text x="40" y="46" font-size="20" font-weight="700" fill="#c0caf5">What rebuild.sh does, in order</text>
+  <text x="40" y="70" font-size="14" fill="#565f89">Every step pauses for Enter, so you can stop at any point</text>
+  <g font-size="14">
+    <g transform="translate(40 100)">
+      <rect width="210" height="160" rx="12" fill="#24283b" stroke="#f7768e" stroke-width="2"/>
+      <text x="18" y="34" font-size="13" font-weight="700" fill="#f7768e">1 · STRIP</text>
+      <text x="18" y="62" fill="#c0caf5">Ads &amp; silent installers</text>
+      <text x="18" y="86" fill="#c0caf5">Honor extras</text>
+      <text x="18" y="110" fill="#c0caf5">Google apps</text>
+      <text x="18" y="134" fill="#c0caf5">Your own unwanted apps</text>
+    </g>
+    <line x1="252" y1="180" x2="276" y2="180" stroke="#565f89" stroke-width="2" marker-end="url(#a)"/>
+    <g transform="translate(280 100)">
+      <rect width="210" height="160" rx="12" fill="#24283b" stroke="#7aa2f7" stroke-width="2"/>
+      <text x="18" y="34" font-size="13" font-weight="700" fill="#7aa2f7">2 · REPLACE</text>
+      <text x="18" y="62" fill="#c0caf5">Keyboard → SwiftKey</text>
+      <text x="18" y="86" fill="#c0caf5">SMS → Fossify Messages</text>
+      <text x="18" y="110" fill="#c0caf5">Home → Lawnchair</text>
+      <text x="18" y="134" fill="#c0caf5">Browser → Firefox</text>
+    </g>
+    <line x1="492" y1="180" x2="516" y2="180" stroke="#565f89" stroke-width="2" marker-end="url(#a)"/>
+    <g transform="translate(520 100)">
+      <rect width="210" height="160" rx="12" fill="#24283b" stroke="#e0af68" stroke-width="2"/>
+      <text x="18" y="34" font-size="13" font-weight="700" fill="#e0af68">3 · TUNE</text>
+      <text x="18" y="62" fill="#c0caf5">Google core (asks first)</text>
+      <text x="18" y="86" fill="#c0caf5">0.5× animations</text>
+      <text x="18" y="110" fill="#c0caf5">AdGuard DNS ad-block</text>
+      <text x="18" y="134" fill="#c0caf5">Reboot + RAM check</text>
+    </g>
+    <line x1="732" y1="180" x2="756" y2="180" stroke="#565f89" stroke-width="2" marker-end="url(#a)"/>
+    <g transform="translate(760 100)">
+      <rect width="200" height="160" rx="12" fill="#24283b" stroke="#9ece6a" stroke-width="2"/>
+      <text x="18" y="34" font-size="13" font-weight="700" fill="#9ece6a">4 · BUILD</text>
+      <text x="18" y="62" fill="#c0caf5">Termux + zsh</text>
+      <text x="18" y="86" fill="#c0caf5">Ubuntu (proot)</text>
+      <text x="18" y="110" fill="#c0caf5">XFCE desktop</text>
+      <text x="18" y="134" fill="#c0caf5">Obtainium updates</text>
+    </g>
+  </g>
+</svg>
